@@ -1,0 +1,10 @@
+.header {
+    background: #3e4d62;
+    padding: 0px;
+    height: 120px;
+}
+
+.header__logo {
+    display: inline-block;
+    z-index: 50;
+}
